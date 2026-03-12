@@ -1,5 +1,6 @@
 /**
  * Application configuration
+ * 
  */
 const config = {
     // Server configuration
